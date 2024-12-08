@@ -44,10 +44,4 @@ cpp-algorithms/
 
 Currently, this is a personal learning project. However, suggestions and advice are always welcome!
 
-## 📜 License
-
-[MIT License](LICENSE)
-
----
-
 **Learning in Progress! 💻🚀**
